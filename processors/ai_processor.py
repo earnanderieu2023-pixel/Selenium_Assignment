@@ -8,7 +8,7 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "outputs")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-client = genai.Client(api_key="AIzaSyAR86qyKnDVNNjlQLoXZUMS694kVISGP7g")
+client = genai.Client(api_key="PASTE_API_KEY_HERE")
 
 def load_data():
     with open(os.path.join(DATA_DIR, "profile.json"), "r") as f:
