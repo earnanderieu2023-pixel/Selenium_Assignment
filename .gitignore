@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/linkedin_jobs.json
+data/linkedin_cookies.pkl
+outputs/job_leads.json
+outputs/job_leads.md
