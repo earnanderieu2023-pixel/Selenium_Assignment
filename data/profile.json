@@ -1,0 +1,448 @@
+{
+  "contact_info": {
+    "name": "Estelle Arnander",
+    "email": "estelle@arnander.com",
+    "phone": "+46 76 187 43 99",
+    "address": "Lützengatan 4, 11520 Stockholm, Sweden",
+    "linkedin": "https://www.linkedin.com/in/estellearnander",
+    "current_location": "Madrid, Spain (during academic terms)"
+  },
+  "internship_preferences": {
+    "type": "Summer Internship",
+    "preferred_locations": [
+      "Stockholm, Sweden (strongly preferred)",
+      "Remote (open to fully remote or hybrid arrangements)" ],
+    "open_to_remote": true,
+    "availability_window": {
+      "earliest_start": "June 1, 2026",
+      "latest_start": "June 30, 2026",
+      "latest_end": "August 31, 2026",
+      "max_duration_weeks": 12,
+      "notes": "Available from the start of June 2026 when the spring academic term concludes. Must conclude by end of August 2026 before the autumn term resumes. Ideal duration is 8–12 weeks."
+    }
+  },
+  "education": [
+    {
+      "institution": "IE University – School of Science and Technology",
+      "degree": "Bachelor of Science in Data and Business Analytics",
+      "location": "Madrid, Spain",
+      "start": "September 2024",
+      "expected_graduation": "May 2027",
+      "gpa": "8.9 / 10",
+      "year": "Second Year (as of 2025-26)",
+      "relevant_coursework": {
+        "mathematics_and_statistics": [
+          "Calculus (MATH 0.1)",
+          "Fundamentals of Probability and Statistics",
+          "Fundamentals of Data Analysis",
+          "Simulating and Modeling to Understand Change",
+          "Probability and Statistics for Data Management and Analysis",
+          "Mathematics for Data Management and Analysis (Linear Algebra)",
+          "Time Series Analysis",
+          "Introduction to Business and Social Analytics"
+        ],
+        "programming_and_computer_science": [
+          "Introduction to Programming for Data Science (R)",
+          "Programming for Data Management and Analysis (Python, SQL, PySpark)",
+          "Algorithms and Data Structures (Python)",
+          "Advanced Data Structures and Storage (NoSQL, RAID, Cloud)",
+          "Operating Systems and Parallel Computing (Linux, CUDA, GPU)"
+        ],
+        "data_science_and_ml": [
+          "Data Insights and Visualization (R, Tableau)",
+          "AI – Machine Learning Foundations",
+          "Learning to Observe, Experiment and Survey"
+        ]
+      },
+      "key_topics_covered": {
+        "statistics": [
+          "Descriptive statistics: mean, median, variance, standard deviation, box plots, scatter plots",
+          "Probability theory: Bayes theorem, conditional probability, distributions",
+          "Sampling and sampling distributions, Central Limit Theorem",
+          "Confidence intervals (z, t, chi-squared, F)",
+          "Hypothesis testing: one and two sample, ANOVA, non-parametric tests",
+          "Goodness-of-fit tests, contingency tables, Wilcoxon, Mann-Whitney",
+          "Joint probability distributions",
+          "Multivariate analysis: PCA, cluster analysis, multiple regression, logistic regression, discriminant analysis",
+          "LASSO, Ridge, decision trees",
+          "Monte Carlo Simulation",
+          "Discrete Events Simulation (simmer package)",
+          "Linear and logistic regression modelling",
+          "Time series decomposition (STL, classical), autocorrelation, stationarity",
+          "Exponential smoothing (SES, Holt-Winters)",
+          "ARIMA modelling and forecasting",
+          "Cross-validation, train-test split, error metrics"
+        ],
+        "mathematics": [
+          "Limits, derivatives, integration, fundamental theorem of calculus",
+          "Vectors, matrices, systems of linear equations",
+          "Matrix operations, LU factorisation, inverses, determinants",
+          "Vector spaces, null space, column space, linear independence",
+          "Eigenvalues and eigenvectors",
+          "Inner product, orthogonality, least squares, SVD fundamentals",
+          "Linear transformations"
+        ],
+        "programming_r": [
+          "Data types and variables in R",
+          "Flow control: loops, conditionals, functions",
+          "Data frames, vectors, arrays",
+          "Reading and writing files (CSV, Excel, JSON)",
+          "Statistical functions: t.test, prop.test, aov, chisq.test, varTest",
+          "Visualisation: ggplot2, scatter plots, histograms, bar charts, heatmaps, boxplots, wordclouds, Leaflet maps",
+          "Tableau integration for dashboards",
+          "R packages: dplyr, VCD, simmer, forecast",
+          "RStudio and Radiant interface",
+          "Random number and random variable generation",
+          "Time series modelling: decomposition, ARIMA, exponential smoothing in R",
+          "Social network analysis, text mining in R"
+        ],
+        "programming_python": [
+          "Data types, variables, loops, functions, OOP",
+          "Lists, strings, file I/O, GUI programming (Graphics.py)",
+          "Pandas: DataFrames, data cleaning, transformation, aggregation",
+          "Matplotlib: line plots, scatter plots, bar charts, histograms, pie charts",
+          "SQL in Python (SQLite integration)",
+          "PySpark: RDDs, DataFrames, map/reduce, lambda functions, filtering, sorting, key-value pairs",
+          "Multidimensional arrays (tensors), sparse vs dense representations",
+          "Data compression in Python (entropy coding, DCT, watermarking)",
+          "CPU-GPU data transmission experiments",
+          "Machine learning pipelines in Python (scikit-learn style)",
+          "Neural network coding (forward/backward propagation, activation functions, optimisers)",
+          "Feature engineering, dimensionality reduction",
+          "Model evaluation: confusion matrix, ROC curves, F1, accuracy, cross-validation",
+          "Ensemble methods, hyperparameter tuning",
+          "Multivariate analysis: PCA, cluster analysis, regression in Python",
+          "Logistic regression, SVM, Naive Bayes, decision trees in Python",
+          "Unsupervised learning: hierarchical clustering, K-means"
+        ],
+        "algorithms_and_data_structures": [
+          "Big O notation and asymptotic analysis",
+          "Search algorithms: binary search, breadth-first, depth-first",
+          "Sort algorithms: selection sort, quicksort",
+          "Recursion and divide-and-conquer",
+          "Hash tables",
+          "Object-Oriented Programming: classes, inheritance, special methods",
+          "Trees: binary trees, AVL trees, Red-Black trees, heaps, priority queues",
+          "Graphs: weighted graphs, Dijkstra, Bellman-Ford",
+          "Greedy algorithms",
+          "Dynamic programming"
+        ],
+        "data_structures_and_storage": [
+          "Multidimensional arrays and tensors",
+          "Sparse vs dense representations (COO, DOK, CSR)",
+          "Lossless compression: run-length encoding, entropy coding, Huffman",
+          "Lossy compression: DCT, wavelets, autoencoders",
+          "Error detection: checksumming, hash functions, parity, watermarking",
+          "Disk and memory management: RAID (striping, mirroring, parity), serialisation, virtualisation",
+          "NoSQL databases: key-value, document (MongoDB), column-family (Cassandra), graph (Neo4j, Gremlin)",
+          "Vector databases (Milvus, Pinecone)",
+          "Cloud storage: virtualisation, containerisation (Docker), cloud models",
+          "Blockchain and distributed storage concepts",
+          "Amdahl's Law, Bloom filters, sets"
+        ],
+        "operating_systems_and_parallel_computing": [
+          "OS principles, architecture, kernels, processes, threads",
+          "Deadlocks, memory management, CPU scheduling (FCFS, SJF, Round Robin)",
+          "File systems, I/O, drivers",
+          "Linux OS: directory structure, commands, daemons, services",
+          "Security: user and group permissions",
+          "Parallel computer architecture: shared memory, distributed memory",
+          "Interconnection networks and routing",
+          "Parallel programming in Python: shared address space",
+          "Big Data: Hadoop, NoSQL, cloud computing",
+          "GPU programming: NVIDIA Pascal/Volta, CUDA",
+          "MapReduce, YARN",
+          "Cloud implementation: AWS, GCP, Oracle Cloud"
+        ],
+        "machine_learning": [
+          "Supervised vs unsupervised learning",
+          "Regression vs classification problems",
+          "Loss functions and gradient descent",
+          "Overfitting, underfitting, bias-variance tradeoff",
+          "Train-test split, cross-validation",
+          "Feature extraction and selection",
+          "Model evaluation metrics: accuracy, F1, precision, recall, AUC-ROC",
+          "Neural networks: perceptron, MLP, forward/backward propagation, dropout",
+          "Representation learning, transfer learning, contrastive learning",
+          "Reinforcement learning: state-action-reward, Bellman equation",
+          "Sequential modelling for time series with deep learning",
+          "Model deployment, data drift, model lifecycle",
+          "Ensemble methods: stacking, boosting",
+          "AutoML, Bayesian optimisation",
+          "Generative AI, RAG systems, AI agents"
+        ],
+        "research_methods": [
+          "Scientific research process: hypothesis, variables, operationalisation",
+          "Reliability and validity (face, content, criterion, construct)",
+          "Descriptive methodologies: observation, surveys",
+          "Experimental and quasi-experimental designs",
+          "ANOVA, SPSS-based data analysis",
+          "APA format scientific reporting"
+        ]
+      }
+    },
+    {
+      "institution": "IE University – Business School",
+      "degree": "Bachelor of Business Administration (Finance) – Transferred",
+      "location": "Madrid, Spain",
+      "start": "September 2023",
+      "end": "May 2024",
+      "gpa": "9.1 / 10",
+      "relevant_coursework": [
+        "Financial and Cost Accounting",
+        "Marketing",
+        "Microeconomics",
+        "Management",
+        "Applied Business Mathematics",
+        "Introduction to Programming"
+      ]
+    },
+    {
+      "institution": "Viktor Rydberg Schools Foundation",
+      "degree": "Swedish Upper Secondary Diploma",
+      "specialisation": "Social Sciences with Behavioural Science Orientation and English Proficiency",
+      "location": "Stockholm, Sweden",
+      "duration": "3 years (graduated ~May 2022)",
+      "notable": "Awarded best thesis essay in class; topic: romanticisation of mental illness on social media. Completed additional after-school programming courses in Python."
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": {
+      "Python": [
+        "Data analysis and statistical computing",
+        "OOP and software application development",
+        "Data pipeline optimisation",
+        "Big data handling",
+        "Parallel computing and GPU programming (CUDA)",
+        "Text and data mining",
+        "Machine learning and AI",
+        "GUI development",
+        "Web scraping"
+      ],
+      "R": [
+        "Statistical analysis",
+        "Time series forecasting and modelling",
+        "Simulation and modelling",
+        "Data visualisation (ggplot2, Leaflet)",
+        "Data wrangling (dplyr)",
+        "Social and business analytics"
+      ],
+      "SQL": [
+        "Relational database design",
+        "Complex queries, joins, filtering",
+        "Python-SQL integration"
+      ],
+      "PySpark": [
+        "Large-scale distributed data processing",
+        "RDDs, DataFrames",
+        "MapReduce, YARN",
+        "Key-value data stores"
+      ],
+      "JavaScript": ["Basic proficiency"]
+    },
+    "databases": {
+      "relational": ["SQL (SQLite, general RDBMS)"],
+      "nosql": [
+        "Key-value stores",
+        "Document databases (MongoDB, pymongo)",
+        "Column-family databases (Apache Cassandra, CQL)",
+        "Graph databases (Neo4j, Apache Gremlin)"
+      ],
+      "vector_databases": ["Milvus", "Pinecone"]
+    },
+    "big_data_and_cloud": [
+      "Apache Spark / PySpark",
+      "Hadoop",
+      "MapReduce / YARN",
+      "AWS", "GCP", "Oracle Cloud",
+      "Docker (containerisation)",
+      "VirtualBox / Vagrant (virtualisation)",
+      "Cloud storage models"
+    ],
+    "machine_learning_frameworks": [
+      "Scikit-learn (pipeline-style)",
+      "Neural network implementation from scratch",
+      "TensorFlow / gradient tape (basic)",
+      "Feature engineering libraries"
+    ],
+    "data_analysis_libraries": [
+      "Pandas", "NumPy", "Matplotlib", "ggplot2", "dplyr", "Leaflet"
+    ],
+    "bi_and_visualisation": [
+      "Tableau (dashboards, visual analytics, Tableau Cloud)",
+      "Power BI",
+      "R visualisation (ggplot2, Leaflet, wordclouds, Sankey, chord diagrams)",
+      "Matplotlib (Python)"
+    ],
+    "os_and_systems": [
+      "Linux (commands, directory structure, daemons, permissions)",
+      "Windows",
+      "macOS",
+      "CPU scheduling algorithms (FCFS, SJF, Round Robin)",
+      "Memory management and RAID",
+      "GPU programming (CUDA, NVIDIA Pascal/Volta)",
+      "Parallel programming (multicore, distributed memory)"
+    ],
+    "algorithms_and_structures": [
+      "Search and sort algorithms",
+      "Hash tables",
+      "Trees (AVL, Red-Black, heaps)",
+      "Graphs (Dijkstra, Bellman-Ford, BFS, DFS)",
+      "Dynamic programming",
+      "Greedy algorithms",
+      "Big O / complexity analysis",
+      "Data compression (lossless and lossy)",
+      "Error detection and correction"
+    ],
+    "mathematics_applied": [
+      "Linear algebra (matrices, eigenvalues, SVD, least squares)",
+      "Calculus (derivatives, integrals, optimisation)",
+      "Probability and statistics",
+      "Monte Carlo simulation",
+      "Discrete events simulation",
+      "Time series analysis (ARIMA, exponential smoothing)"
+    ],
+    "version_control": ["Git", "GitHub"],
+    "design_tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign"
+    ],
+    "statistical_software": ["R / RStudio", "Radiant", "SPSS (basic)"]
+  },
+  "soft_skills": [
+    "Leadership – co-founded and led multi-school club; board-level roles",
+    "Cross-cultural communication – worked across Stockholm and Paris offices; multilingual",
+    "International logistics coordination – managed global shipments for a fashion startup",
+    "Project management – coordinated events, campaigns, and supply chain operations",
+    "Strategic thinking and competitive benchmarking",
+    "Digital strategy and social media management",
+    "Entrepreneurial mindset – attended tech/startup conferences; personal crypto investments",
+    "Community outreach and social responsibility – Red Cross drives, anti-bullying ambassador",
+    "Public speaking and academic presentations",
+    "Critical and analytical thinking",
+    "Resilience and independence – overcame long-COVID and ADHD diagnosis; self-managed academic recovery",
+    "Teamwork in small international teams",
+    "Financial management – managed student union finances"
+  ],
+  "experience": [
+    {
+      "company": "Ardazaei AB",
+      "title": "Office Manager Assistant / Junior Marketing Analyst",
+      "type": "Full-time",
+      "location": "Stockholm, Sweden & Paris, France",
+      "start": "September 2022",
+      "end": "August 2023",
+      "duration": "1 year",
+      "summary": "Joined as the most junior member of a 6-person international team at a fast-growing haute couture startup with offices in Stockholm and Paris. Proposed and implemented the brand's first social media content strategy across all digital platforms. Coordinated international logistics including shipments between ateliers, suppliers, offices in Stockholm and Paris, and global customers. Supported the commercial segment: website content improvement, competitive benchmarking, and global high-fashion wholesaler identification. Helped prepare for and coordinate onsite at Paris Haute Couture Week. Contributed to developing a technical solution for clothing authenticity certification/tags. Gained deep understanding of end-to-end supply chain through the brand's GOTS sustainability certification process. Later worked on-site in Paris while maintaining collaboration with Stockholm team.",
+      "key_skills_used": [
+        "Social media strategy and content creation",
+        "International logistics and coordination",
+        "Competitive benchmarking",
+        "Digital strategy",
+        "Cross-border communication",
+        "Commercial and wholesale research",
+        "Technical solution development"
+      ]
+    },
+    {
+      "company": "Skansen Amusement Park",
+      "title": "Employee",
+      "type": "Part-time",
+      "location": "Stockholm, Sweden",
+      "start": "June 2017",
+      "end": "September 2019",
+      "duration": "~2 years (seasonal, after school and weekends)",
+      "summary": "Supervised amusement attractions and worked as cashier. First professional work experience, developing customer service and reliability skills."
+    }
+  ],
+  "extracurricular_and_leadership": [
+    {
+      "role": "Board Member – Nordic Society",
+      "organization": "IE University",
+      "location": "Madrid, Spain",
+      "dates": "September 2024 – Present"
+    },
+    {
+      "role": "Participant – Tech Venture Lab",
+      "organization": "IE University",
+      "location": "Madrid, Spain",
+      "dates": "2024 – Present",
+      "note": "Entrepreneurship and technology innovation lab"
+    },
+    {
+      "role": "President and Co-Founder – VRG Book Club",
+      "organization": "Viktor Rydberg Gymnasium",
+      "location": "Stockholm, Sweden",
+      "dates": "September 2020 – May 2022",
+      "summary": "Founded and led a school book club that grew across three Stockholm schools. Invited authors and entrepreneurs as guest speakers. Ran social media campaigns and a Red Cross book donation drive. Negotiated with library for dedicated shelf space."
+    },
+    {
+      "role": "Vice-President – VRG 'Spiritus' Society",
+      "organization": "Viktor Rydberg Djursholm",
+      "location": "Stockholm, Sweden",
+      "dates": "September 2020 – May 2022",
+      "summary": "Community dedicated to supporting integration of new students."
+    },
+    {
+      "role": "Board Member – Community Outreach",
+      "organization": "Viktor Rydberg Djursholm",
+      "location": "Stockholm, Sweden",
+      "dates": "August 2019 – May 2022",
+      "summary": "Organised Christmas gift collections and Red Cross collaborations."
+    },
+    {
+      "role": "Financial Manager – Student Union",
+      "organization": "Carlssons Skola",
+      "location": "Stockholm, Sweden",
+      "dates": "August 2018 – June 2019"
+    },
+    {
+      "role": "Student Ambassador – KiVa Anti-Bullying Programme",
+      "organization": "Carlssons Skola",
+      "location": "Stockholm, Sweden",
+      "dates": "August 2017 – May 2019"
+    }
+  ],
+  "languages": [
+    {"language": "Swedish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Native / Bilingual"},
+    {"language": "Spanish", "proficiency": "Limited Working Proficiency"}
+  ],
+  "interests_and_activities": [
+    "Golf",
+    "Rock climbing",
+    "Skiing",
+    "Trading and cryptocurrency investment",
+    "Graphic design",
+    "Mindfulness and meditation",
+    "Technology and startup conferences (Slush Helsinki)",
+    "Sustainable fashion"
+  ],
+  "notable_achievements": [
+    "GPA 9.1/10 in first year at IE Business School",
+    "GPA 8.9/10 in Data and Business Analytics",
+    "Best thesis essay award in class at Viktor Rydberg Gymnasium",
+    "Successfully overcame long-COVID-induced hypothyroidism through self-managed diet and lifestyle changes",
+    "Grew VRG Book Club across three schools in Stockholm",
+    "Completed Paris Haute Couture Week coordination onsite at Ardazaei"
+  ],
+  "search_keywords": [
+    "Junior Data Analyst",
+    "Data Science Intern",
+    "Business Intelligence Analyst Graduate",
+    "Python Developer Intern",
+    "Machine Learning Engineer Intern",
+    "Junior Data Engineer",
+    "Statistical Analyst Graduate",
+    "Big Data Analytics Intern",
+    "Junior BI Developer Tableau",
+    "Data and Business Analytics Intern Stockholm Madrid",
+    "Junior ML Analyst Finance",
+    "Graduate Data Analyst Fashion Tech",
+    "Cloud Data Engineer Intern",
+    "Junior NoSQL Database Analyst",
+    "Quantitative Analyst Intern",
+    "Stockholm"
+  ]
+}
